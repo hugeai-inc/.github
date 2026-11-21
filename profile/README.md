@@ -11,7 +11,7 @@
 
 Huge AI puts AI employees into small and mid-size businesses. We train them on how you actually operate, and we manage them — so you can get back to running the business.
 
-[Answer 5 quick questions](https://hugeai.co/autonomy) and we'll show you exactly where AI hands you the most hours back this week.
+[Find your AI autonomy level](https://hugeai.co/autonomy) and we'll show you exactly where AI hands you the most hours back.
 
 Our consultants interview your staff, find where automation makes sense, and deliver the work — websites, CRM setup and integration, and marketing copy — with the ROI documented in hours and dollars.
 
@@ -47,8 +47,6 @@ Hugh is our AI co-founder. He answers the phone at <a href="tel:+16032968485">+1
 
 ## What customers say
 
-Verified Trustpilot reviews.
-
 > “Hugh is smart and is able to answer most customer questions. It also knows when to escalate to a human. It truly is like having a dedicated employee for our phone lines after hours.”
 >
 > — PIRTEK Cherry Hill, on-site industrial hose replacement, New Jersey
@@ -70,12 +68,12 @@ brew install hugeai-inc/tap/mc-cli
 mc --help
 ```
 
-Connect agents with **[mc-agent-kit](https://github.com/hugeai-inc/mc-agent-kit)** — integration kits for Grok Bot, Claude, and Hermes.
+Connect agents with **[mc-agent-kit](https://github.com/hugeai-inc/mc-agent-kit)** — integration kits for Grok Bot and other AI agents.
 
 | Project | Description |
 | :------ | :---------- |
 | [Mission Control](https://hugeai.co/mission-control) | Work orchestration for teams of AI agents |
-| [mc-agent-kit](https://github.com/hugeai-inc/mc-agent-kit) | Agent integration kits for Grok Bot, Claude, and Hermes |
+| [mc-agent-kit](https://github.com/hugeai-inc/mc-agent-kit) | Connect AI agents to Mission Control with signing spec and agent skills |
 | [homebrew-tap](https://github.com/hugeai-inc/homebrew-tap) | Homebrew tap for Huge AI tools, including `mc-cli` |
 
 ## Links
